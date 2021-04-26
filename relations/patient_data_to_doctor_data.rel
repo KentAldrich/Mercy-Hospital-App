@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/mercyhospitaldb/doctor_data",
+items:[
+{foreignColumnName:"doctor_data_uuid",primaryDataProviderID:"patient_data_uuid",typeid:23,uuid:"2846F1FF-E750-4677-81D0-0F6A720CF05C"}
+],
+joinType:1,
+name:"patient_data_to_doctor_data",
+primaryDataSource:"db:/mercyhospitaldb/patient_data",
+typeid:22,
+uuid:"2210A47C-4E9D-422C-A0B9-95D5548483A6"

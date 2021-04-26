@@ -1,0 +1,1618 @@
+!SESSION 2021-04-16 14:57:43.764 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=15.0.1+9
+JRE 15 Windows 8 amd64-64-Bit Compressed References 20201022_82 (JIT enabled, AOT enabled)
+OpenJ9   - 0394ef754
+OMR      - 582366ae5
+JCL      - ad583de3b5 based on jdk-15.0.1+9
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_PH
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -clean
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:34.184
+!MESSAGE Designtime documentation initialized successfully in 423 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:34.857
+!MESSAGE Documentation loaded successfully. 165 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:34.857
+!MESSAGE Documentation loaded and registered in 70 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:35.443
+!MESSAGE Loaded 57 method templates.
+
+!ENTRY org.eclipse.jface 2 0 2021-04-16 15:02:40.341
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-16 15:02:40.341
+!MESSAGE A conflict occurred for ALT+SHIFT+A:
+Binding(ALT+SHIFT+A,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.StartSmartClient,Launch SmartClient,
+		Launch SmartClient,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@ffd1a9f4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+A,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.StartNGDesktopClient,Launch NGDesktopClient,
+		Launch NGDesktop,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@45c320b0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-16 15:02:40.341
+!MESSAGE A conflict occurred for ALT+SHIFT+M:
+Binding(ALT+SHIFT+M,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.StartMobileClient,Launch Mobile Client,
+		Launch Mobile Client,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@23601b00,
+		[Parameter(com.servoy.eclipse.mobile.launch.config,com.servoy.eclipse.mobile.launch.config,null,true)],,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+M,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.extract.method,Extract Method,
+		Extract a set of statements or an expression into a new method and use the new method,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@ae2cb6ff,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-16 15:02:40.341
+!MESSAGE A conflict occurred for F4:
+Binding(F4,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.OpenFormHierarchyAction,Open Form Hierarchy,
+		Open Form Hierarchy,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4b7173ad,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@a764e0c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:40.928
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:40.928
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:40.928
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:40.928
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:40.928
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:40.944
+!MESSAGE Documentation loaded and registered in 16 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:40.944
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:40.944
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:40.944
+!MESSAGE Documentation loaded successfully. 0 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:40.944
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:40.944
+!MESSAGE Documentation loaded successfully. 0 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:40.944
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:40.944
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:40.944
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.129
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.129
+!MESSAGE Documentation loaded and registered in 170 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.144
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.160
+!MESSAGE Documentation loaded and registered in 16 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.160
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.160
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.282
+!MESSAGE Documentation loaded successfully. 14 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.282
+!MESSAGE Documentation loaded and registered in 116 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.282
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.282
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.282
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.282
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.282
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.282
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.298
+!MESSAGE Documentation loaded successfully. 4 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.298
+!MESSAGE Documentation loaded and registered in 16 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.298
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.298
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.329
+!MESSAGE Documentation loaded successfully. 10 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.329
+!MESSAGE Documentation loaded and registered in 31 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.383
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.383
+!MESSAGE Documentation loaded and registered in 54 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.398
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.398
+!MESSAGE Documentation loaded and registered in 15 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.398
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.398
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.398
+!MESSAGE Documentation loaded successfully. 5 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.398
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.414
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.414
+!MESSAGE Documentation loaded and registered in 16 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.414
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.414
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.414
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.414
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.414
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.414
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.414
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.414
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.429
+!MESSAGE Documentation loaded successfully. 10 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.429
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.429
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:41.429
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:42.636
+!MESSAGE Documentation loaded successfully. 5 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:42.636
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:42.636
+!MESSAGE Documentation loaded successfully. 0 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:02:42.636
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-04-16 15:02:54.398
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\TEMP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.jobs 2 2 2021-04-16 15:03:36.189
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.ui.internal.Workbench$40
+!SESSION 2021-04-16 15:03:35.842 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=15.0.1+9
+JRE 15 Windows 8 amd64-64-Bit Compressed References 20201022_82 (JIT enabled, AOT enabled)
+OpenJ9   - 0394ef754
+OMR      - 582366ae5
+JCL      - ad583de3b5 based on jdk-15.0.1+9
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_PH
+
+!ENTRY org.eclipse.osgi 4 0 2021-04-16 15:03:36.195
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\TEMP\Desktop\Servoy\developer\configuration\org.eclipse.osgi
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:57.893
+!MESSAGE Designtime documentation initialized successfully in 150 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.263
+!MESSAGE Documentation loaded successfully. 165 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.263
+!MESSAGE Documentation loaded and registered in 38 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.341
+!MESSAGE Loaded 57 method templates.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.363
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.363
+!MESSAGE Documentation loaded and registered in 7 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.363
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.363
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.363
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.363
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.363
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.363
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.363
+!MESSAGE Documentation loaded successfully. 0 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.363
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.363
+!MESSAGE Documentation loaded successfully. 0 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.363
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.363
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.363
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.378
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.378
+!MESSAGE Documentation loaded and registered in 15 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.378
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.378
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.378
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.378
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.410
+!MESSAGE Documentation loaded successfully. 14 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.410
+!MESSAGE Documentation loaded and registered in 16 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.441
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.441
+!MESSAGE Documentation loaded and registered in 31 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.441
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.441
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.441
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.441
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.441
+!MESSAGE Documentation loaded successfully. 4 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.441
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.441
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.441
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.457
+!MESSAGE Documentation loaded successfully. 10 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.457
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.463
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.463
+!MESSAGE Documentation loaded and registered in 6 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.463
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.463
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.479
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.479
+!MESSAGE Documentation loaded and registered in 16 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.479
+!MESSAGE Documentation loaded successfully. 5 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.479
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.479
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.479
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.479
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.479
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.479
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.479
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.479
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.479
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.494
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.494
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.510
+!MESSAGE Documentation loaded successfully. 10 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.526
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.526
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.526
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY org.eclipse.jface 2 0 2021-04-16 15:03:58.657
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-16 15:03:58.657
+!MESSAGE A conflict occurred for ALT+SHIFT+A:
+Binding(ALT+SHIFT+A,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.StartSmartClient,Launch SmartClient,
+		Launch SmartClient,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@f3bd9dbd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+A,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.StartNGDesktopClient,Launch NGDesktopClient,
+		Launch NGDesktop,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@432ec99a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-16 15:03:58.657
+!MESSAGE A conflict occurred for ALT+SHIFT+M:
+Binding(ALT+SHIFT+M,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.StartMobileClient,Launch Mobile Client,
+		Launch Mobile Client,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@45c39c03,
+		[Parameter(com.servoy.eclipse.mobile.launch.config,com.servoy.eclipse.mobile.launch.config,null,true)],,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+M,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.extract.method,Extract Method,
+		Extract a set of statements or an expression into a new method and use the new method,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@f5e300c3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-16 15:03:58.657
+!MESSAGE A conflict occurred for F4:
+Binding(F4,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.OpenFormHierarchyAction,Open Form Hierarchy,
+		Open Form Hierarchy,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1d0d935d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@160f005d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.664
+!MESSAGE Documentation loaded successfully. 5 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.664
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.664
+!MESSAGE Documentation loaded successfully. 0 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:03:58.664
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-04-16 15:04:02.537
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\TEMP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2021-04-16 15:05:06.342
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.compositeRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:229)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.getLocalFile(CompositeMetadataRepositoryFactory.java:77)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:100)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2021-04-16 15:05:06.350
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.simpleRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:229)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:69)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2021-04-16 15:05:06.639
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.updatesite.metadataRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.getLocalRepositoryLocation(UpdateSiteMetadataRepositoryFactory.java:39)
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.loadRepository(UpdateSiteMetadataRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.load(UpdateSiteMetadataRepositoryFactory.java:59)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2021-04-16 15:05:06.724
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at https://dl.bintray.com/subclipse/releases/javahl/1.14.x/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:396)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:700)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2021-04-16 15:05:06.724
+!MESSAGE No repository found at https://dl.bintray.com/subclipse/releases/javahl/1.14.x/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2021-04-16 15:05:06.724
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.simpleRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:229)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:69)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2021-04-16 15:05:06.724
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.compositeRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:229)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.getLocalFile(CompositeMetadataRepositoryFactory.java:77)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:100)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2021-04-16 15:05:06.724
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.updatesite.metadataRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.getLocalRepositoryLocation(UpdateSiteMetadataRepositoryFactory.java:39)
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.loadRepository(UpdateSiteMetadataRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.load(UpdateSiteMetadataRepositoryFactory.java:59)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2021-04-16 15:05:06.777
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at https://dl.bintray.com/subclipse/svnkit-updates/1.10.2/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:396)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:700)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2021-04-16 15:05:06.777
+!MESSAGE No repository found at https://dl.bintray.com/subclipse/svnkit-updates/1.10.2/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2021-04-16 15:05:06.793
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.compositeRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:229)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.getLocalFile(CompositeMetadataRepositoryFactory.java:77)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:100)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2021-04-16 15:05:06.793
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.simpleRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:229)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:69)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2021-04-16 15:05:06.793
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.updatesite.metadataRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.getLocalRepositoryLocation(UpdateSiteMetadataRepositoryFactory.java:39)
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.loadRepository(UpdateSiteMetadataRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.load(UpdateSiteMetadataRepositoryFactory.java:59)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2021-04-16 15:05:06.793
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at https://dl.bintray.com/subclipse/releases/m2e/latest/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:396)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:700)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2021-04-16 15:05:06.793
+!MESSAGE No repository found at https://dl.bintray.com/subclipse/releases/m2e/latest/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2021-04-16 15:05:06.793
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.compositeRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:229)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.getLocalFile(CompositeMetadataRepositoryFactory.java:77)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:100)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2021-04-16 15:05:06.793
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.simpleRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:229)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:69)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2021-04-16 15:05:06.793
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.updatesite.metadataRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.getLocalRepositoryLocation(UpdateSiteMetadataRepositoryFactory.java:39)
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.loadRepository(UpdateSiteMetadataRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.load(UpdateSiteMetadataRepositoryFactory.java:59)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-04-16 15:05:06.808
+!MESSAGE No repository found at http://download.eclipse.org/eclipse/updates/4.16.
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2021-04-16 15:05:06.963
+!MESSAGE Error while reading from repository: http://download.servoy.com/developer/latest/content.xml.xz.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2021-04-16 15:05:06.963
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.simpleRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:229)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:69)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2021-04-16 15:05:06.963
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.compositeRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:187)
+	at org.osgi.util.tracker.ServiceTracker.<init>(ServiceTracker.java:250)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getHttpClientFactory(Activator.java:241)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient45.Activator.getBrowseHttpClient(Activator.java:266)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientBrowseFileTransferFactory$1.sendBrowseRequest(HttpClientBrowseFileTransferFactory.java:59)
+	at org.eclipse.ecf.provider.filetransfer.browse.MultiProtocolFileSystemBrowserAdapter.sendBrowseRequest(MultiProtocolFileSystemBrowserAdapter.java:97)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:184)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:229)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.getLocalFile(CompositeMetadataRepositoryFactory.java:77)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:100)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2021-04-16 15:05:06.963
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.updatesite.metadataRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.getLocalRepositoryLocation(UpdateSiteMetadataRepositoryFactory.java:39)
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.loadRepository(UpdateSiteMetadataRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.updatesite.metadata.UpdateSiteMetadataRepositoryFactory.load(UpdateSiteMetadataRepositoryFactory.java:59)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2021-04-16 15:05:06.963
+!MESSAGE No repository found at http://download.servoy.com/developer/xulrunner/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2021-04-16 15:05:07.025
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.XZedRepository
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:428)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.readInto(FileReader.java:384)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:107)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.download(RepositoryTransport.java:166)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.updateCache(CacheManager.java:404)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCacheFromFile(CacheManager.java:136)
+	at org.eclipse.equinox.internal.p2.metadata.repository.XZedSimpleMetadataRepositoryFactory.getLocalFile(XZedSimpleMetadataRepositoryFactory.java:60)
+	at org.eclipse.equinox.internal.p2.metadata.repository.XZedSimpleMetadataRepositoryFactory.load(XZedSimpleMetadataRepositoryFactory.java:80)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 4 1002 2021-04-16 15:05:07.025
+!MESSAGE Unable to read repository at http://developer.servoy.com/sqlexplorer/content.xml.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Transport initialization error.
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryStatusHelper.fromExceptionMessage(RepositoryStatusHelper.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryStatusHelper.fromMessage(RepositoryStatusHelper.java:105)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.sendBrowseRequest(FileInfoReader.java:166)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:109)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:229)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:69)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:676)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getAvailableRepositories(UpdateChecker.java:152)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:130)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+!SUBENTRY 1 org.eclipse.equinox.p2.transport.ecf 4 0 2021-04-16 15:05:07.025
+!MESSAGE Transport initialization error.
+
+!ENTRY org.eclipse.equinox.p2.updatechecker 4 0 2021-04-16 15:05:07.025
+!MESSAGE Exception in update check thread
+!STACK 0
+java.lang.IllegalStateException: Provisioning system has not been initialized
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.getPlanner(UpdateChecker.java:176)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker.checkForUpdates(UpdateChecker.java:136)
+	at org.eclipse.equinox.internal.p2.updatechecker.UpdateChecker$UpdateCheckThread.run(UpdateChecker.java:78)
+!SESSION 2021-04-16 15:05:07.588 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=15.0.1+9
+JRE 15 Windows 8 amd64-64-Bit Compressed References 20201022_82 (JIT enabled, AOT enabled)
+OpenJ9   - 0394ef754
+OMR      - 582366ae5
+JCL      - ad583de3b5 based on jdk-15.0.1+9
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_PH
+
+!ENTRY org.eclipse.osgi 4 0 2021-04-16 15:05:07.976
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\TEMP\Desktop\Servoy\developer\configuration\org.eclipse.osgi
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:21.776
+!MESSAGE Designtime documentation initialized successfully in 279 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.244
+!MESSAGE Documentation loaded successfully. 165 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.244
+!MESSAGE Documentation loaded and registered in 31 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.313
+!MESSAGE Loaded 57 method templates.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.344
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.344
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.344
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.344
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.360
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.360
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.360
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.360
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.360
+!MESSAGE Documentation loaded successfully. 0 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.360
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.360
+!MESSAGE Documentation loaded successfully. 0 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.360
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.360
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.360
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.376
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.376
+!MESSAGE Documentation loaded and registered in 16 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.376
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.376
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.376
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.376
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.398
+!MESSAGE Documentation loaded successfully. 14 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.398
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.398
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.413
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.413
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.413
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.413
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.413
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.413
+!MESSAGE Documentation loaded successfully. 4 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.413
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.413
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.413
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.445
+!MESSAGE Documentation loaded successfully. 10 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.445
+!MESSAGE Documentation loaded and registered in 16 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.476
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.476
+!MESSAGE Documentation loaded and registered in 31 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.491
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.491
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.498
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.498
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.498
+!MESSAGE Documentation loaded successfully. 5 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.498
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.498
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.498
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.514
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.514
+!MESSAGE Documentation loaded and registered in 16 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.514
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.514
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.514
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.514
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY org.eclipse.jface 2 0 2021-04-16 15:05:22.514
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-16 15:05:22.514
+!MESSAGE A conflict occurred for ALT+SHIFT+A:
+Binding(ALT+SHIFT+A,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.StartSmartClient,Launch SmartClient,
+		Launch SmartClient,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@a798e21b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+A,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.StartNGDesktopClient,Launch NGDesktopClient,
+		Launch NGDesktop,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@9243b170,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-16 15:05:22.514
+!MESSAGE A conflict occurred for ALT+SHIFT+M:
+Binding(ALT+SHIFT+M,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.StartMobileClient,Launch Mobile Client,
+		Launch Mobile Client,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@a3ce86e7,
+		[Parameter(com.servoy.eclipse.mobile.launch.config,com.servoy.eclipse.mobile.launch.config,null,true)],,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+M,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.extract.method,Extract Method,
+		Extract a set of statements or an expression into a new method and use the new method,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@c106b80c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-16 15:05:22.514
+!MESSAGE A conflict occurred for F4:
+Binding(F4,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.OpenFormHierarchyAction,Open Form Hierarchy,
+		Open Form Hierarchy,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@ebf004a2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@8cbc1c2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.514
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.514
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.545
+!MESSAGE Documentation loaded successfully. 10 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.545
+!MESSAGE Documentation loaded and registered in 16 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.545
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.545
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.698
+!MESSAGE Documentation loaded successfully. 5 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.698
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.698
+!MESSAGE Documentation loaded successfully. 0 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-16 15:05:22.698
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-04-16 15:05:26.277
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\TEMP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2021-04-26 11:36:48.783 -----------------------------------------------
+eclipse.buildId=unknown
+java.fullversion=15.0.1+9
+JRE 15 Windows 8 amd64-64-Bit Compressed References 20201022_82 (JIT enabled, AOT enabled)
+OpenJ9   - 0394ef754
+OMR      - 582366ae5
+JCL      - ad583de3b5 based on jdk-15.0.1+9
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_PH
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -clean
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:37:59.109
+!MESSAGE Designtime documentation initialized successfully in 726 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:00.349
+!MESSAGE Documentation loaded successfully. 165 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:00.349
+!MESSAGE Documentation loaded and registered in 141 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:01.763
+!MESSAGE Loaded 57 method templates.
+
+!ENTRY org.eclipse.jface 2 0 2021-04-26 11:38:05.559
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-26 11:38:05.559
+!MESSAGE A conflict occurred for ALT+SHIFT+A:
+Binding(ALT+SHIFT+A,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.StartSmartClient,Launch SmartClient,
+		Launch SmartClient,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@562aa4cc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+A,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.StartNGDesktopClient,Launch NGDesktopClient,
+		Launch NGDesktop,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@9ee4207a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-26 11:38:05.559
+!MESSAGE A conflict occurred for ALT+SHIFT+M:
+Binding(ALT+SHIFT+M,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.StartMobileClient,Launch Mobile Client,
+		Launch Mobile Client,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@df0419c7,
+		[Parameter(com.servoy.eclipse.mobile.launch.config,com.servoy.eclipse.mobile.launch.config,null,true)],,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+SHIFT+M,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.extract.method,Extract Method,
+		Extract a set of statements or an expression into a new method and use the new method,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@99713db8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-04-26 11:38:05.559
+!MESSAGE A conflict occurred for F4:
+Binding(F4,
+	ParameterizedCommand(Command(com.servoy.eclipse.ui.OpenFormHierarchyAction,Open Form Hierarchy,
+		Open Form Hierarchy,
+		Category(com.servoy.eclipse.ui,Servoy,Other Servoy Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@cc9f2475,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(F4,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.open.type.hierarchy,Open Type Hierarchy,
+		Open a type hierarchy on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@e51cd21f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.396
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.396
+!MESSAGE Documentation loaded and registered in 11 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.413
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.413
+!MESSAGE Documentation loaded and registered in 1 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.424
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.424
+!MESSAGE Documentation loaded and registered in 1 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.427
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.428
+!MESSAGE Documentation loaded and registered in 1 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.429
+!MESSAGE Documentation loaded successfully. 0 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.430
+!MESSAGE Documentation loaded and registered in 1 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.432
+!MESSAGE Documentation loaded successfully. 0 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.432
+!MESSAGE Documentation loaded and registered in 1 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.434
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.434
+!MESSAGE Documentation loaded and registered in 1 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.487
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.488
+!MESSAGE Documentation loaded and registered in 51 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.495
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.496
+!MESSAGE Documentation loaded and registered in 2 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.498
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.499
+!MESSAGE Documentation loaded and registered in 1 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.584
+!MESSAGE Documentation loaded successfully. 14 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.584
+!MESSAGE Documentation loaded and registered in 77 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.588
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.589
+!MESSAGE Documentation loaded and registered in 4 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.591
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.591
+!MESSAGE Documentation loaded and registered in 1 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.606
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.607
+!MESSAGE Documentation loaded and registered in 1 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.610
+!MESSAGE Documentation loaded successfully. 4 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.611
+!MESSAGE Documentation loaded and registered in 1 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.613
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.645
+!MESSAGE Documentation loaded and registered in 1 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.773
+!MESSAGE Documentation loaded successfully. 10 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.774
+!MESSAGE Documentation loaded and registered in 127 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.838
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.838
+!MESSAGE Documentation loaded and registered in 63 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.843
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.843
+!MESSAGE Documentation loaded and registered in 1 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.846
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.846
+!MESSAGE Documentation loaded and registered in 1 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.849
+!MESSAGE Documentation loaded successfully. 5 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.850
+!MESSAGE Documentation loaded and registered in 2 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.910
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.911
+!MESSAGE Documentation loaded and registered in 59 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.912
+!MESSAGE Documentation loaded successfully. 1 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.913
+!MESSAGE Documentation loaded and registered in 1 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.914
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.915
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.916
+!MESSAGE Documentation loaded successfully. 3 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.917
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.920
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.920
+!MESSAGE Documentation loaded and registered in 2 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.934
+!MESSAGE Documentation loaded successfully. 10 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.935
+!MESSAGE Documentation loaded and registered in 4 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.937
+!MESSAGE Documentation loaded successfully. 2 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:06.938
+!MESSAGE Documentation loaded and registered in 1 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:08.907
+!MESSAGE Documentation loaded successfully. 5 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:08.907
+!MESSAGE Documentation loaded and registered in 1 ms.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:08.909
+!MESSAGE Documentation loaded successfully. 0 classes registered successfully.
+
+!ENTRY com.servoy.eclipse.model 1 0 2021-04-26 11:38:08.909
+!MESSAGE Documentation loaded and registered in 0 ms.
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-04-26 11:38:27.849
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\TEMP'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.

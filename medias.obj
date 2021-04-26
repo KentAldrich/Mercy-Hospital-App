@@ -1,0 +1,16 @@
+[
+{
+encapsulation:0,
+mimeType:"text/css",
+name:"custom_servoy_theme_properties.less",
+typeid:37,
+uuid:"166B894E-3F8C-4FAD-B8AD-E1A85FBCDC63"
+},
+{
+encapsulation:0,
+mimeType:"text/css",
+name:"MercyHospital.less",
+typeid:37,
+uuid:"D0E62D1C-8D28-4867-8267-DEEFE1660CB6"
+}
+]
